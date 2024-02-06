@@ -1,0 +1,16 @@
+.mini-cell {
+  position: relative;
+  width: 33.33%;
+  height: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4vw;
+  border: 2px solid #343a40;
+}
+
+.jog {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

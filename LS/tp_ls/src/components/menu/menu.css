@@ -1,0 +1,55 @@
+.buttonPause {
+    padding: 10px 20px;
+    background-color: #e03444;
+    color: #fffc04;
+    font-size: 16px;
+    border: 2px #383c44;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.buttonGameMode {
+    padding: 10px 20px;
+    background-color: #e03444;
+    color: #fffc04;
+    font-size: 16px;
+    border: 2px #383c44;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.buttonComeca{
+    padding: 10px 20px;
+    background-color: #e03444;
+    color: #fffc04;
+    font-size: 16px;
+    border: 2px #383c44;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.buttonReset {
+    padding: 10px 20px;
+    background-color: #e03444;
+    color: #fffc04;
+    font-size: 16px;
+    border: 2px #383c44;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
